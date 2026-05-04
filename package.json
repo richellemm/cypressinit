@@ -1,0 +1,24 @@
+{
+  "name": "cypressinit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richellemm/cypressinit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/richellemm/cypressinit/issues"
+  },
+  "homepage": "https://github.com/richellemm/cypressinit#readme",
+  "devDependencies": {
+    "cypress": "^15.14.2"
+  }
+}
